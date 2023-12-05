@@ -1,2 +1,5 @@
 bin/
 obj/
+.vs/Dungeon-crawler game/v17/
+Dungeon-crawler game.sln/
+Dungeon-crawler game.csproj/
